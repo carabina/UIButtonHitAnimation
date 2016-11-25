@@ -2,7 +2,7 @@
 
 一句话让你的UIButton拥有点击效果
 
-<iframe height=716 width=414 src="https://github.com/OPTJoker/UIButtonHitAnimation/BtnHitAnim.gif">
+<img src="https://github.com/OPTJoker/UIButtonHitAnimation/BtnHitAnim.gif" height="716" width="414" alt="UIButton点击效果"/>
 
 这是一个UIButton+ScaleAnimation category
 
